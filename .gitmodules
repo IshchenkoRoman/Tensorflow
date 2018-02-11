@@ -1,0 +1,3 @@
+[submodule "LinearRegression"]
+	path = LinearRegression
+	url = https://github.com/IshchenkoRoman/LinearRegression
